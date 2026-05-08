@@ -103,7 +103,7 @@ The notebook is structured into **6 sequential tasks**:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/telco-churn-analysis.git
+git clone https://github.com/shadowboy-tech/telco-churn-analysis.git
 cd telco-churn-analysis
 ```
 
@@ -142,4 +142,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 👤 Author
 
 **Muhammad Inuwa Muhammad**  
+*AI/ML Engineer*
 🔗 [LinkedIn](https://linkedin.com/in/muhammad-inuwa-muhammad)
