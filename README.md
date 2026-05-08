@@ -21,7 +21,7 @@ Customer churn is one of the most costly problems in the telecom sector. This pr
 telco-churn-analysis/
 │
 ├── customer_churn_analysis.ipynb           # Main Jupyter Notebook (source)
-├── customer_churn_analysis_executed.ipynb  # Pre-executed notebook with outputs
+├── customer-churn-analysis-and-prediction.ipynb  # Pre-executed notebook with outputs
 ├── Telco_Customer_Churn_Dataset___1_.csv   # Dataset (place here before running)
 ├── README.md                               # You are here
 │
